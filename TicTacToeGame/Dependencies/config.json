@@ -1,0 +1,6 @@
+{
+    "tableSize": 300,
+    "grid": 3,
+    "drawPerTurn" : 2,
+    "windowTitle": "Tic-Tac-Toe"
+}
